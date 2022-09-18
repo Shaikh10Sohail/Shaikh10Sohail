@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Shaikh10Sohail
 - 👀 I’m interested in PYTHON & DEVOPS
-- 🌱 I’m currently learning Docker &  Kubernetes
+- 🌱 I’m currently learned all Tools of DevOps 
+-     I 'm looking for a job in DevOps
 - 💞️ I’m looking to collaborate on CI CD
 - 📫 How to reach me +91 7066279657
 -     I'm from India
