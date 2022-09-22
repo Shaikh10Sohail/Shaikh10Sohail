@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shaikh10Sohail
+- 👋 Hi, I’m Shaikh Sohail
 - 👀 I’m interested in PYTHON & DEVOPS
 - 🌱 I’m currently learned all Tools of DevOps 
 -     I 'm looking for a job in DevOps
